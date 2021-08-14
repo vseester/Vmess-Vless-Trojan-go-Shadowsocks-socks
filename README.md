@@ -43,7 +43,7 @@
     "run_type": "client",
     "local_addr": "127.0.0.1",
     "local_port": 1080,
-    "remote_addr": "vseester.herokuapp.com",
+    "remote_addr": "appname.herokuapp.com",
     "remote_port": 443,
     "password": [
         "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
@@ -51,7 +51,7 @@
     "websocket": {
         "enabled": true,
         "path": "/8f91b6a0-e8ee-11ea-adc1-0242ac120002-trojan",
-        "host": "appname.herokuapp.com"
+        "host": "vseester.herokuapp.com"
     }
 }
 ```
